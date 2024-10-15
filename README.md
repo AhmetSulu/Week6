@@ -12,3 +12,11 @@ The technologies utilized in this project are:
 ## Purpose
 
 The main goal of this project is to reinforce the concepts covered during the lessons by applying them in practical SQL exercises.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+For any questions or support, please email (ahmet.sulu1993@gmail.com)
